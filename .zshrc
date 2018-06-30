@@ -1,5 +1,5 @@
 #scratch# Oh-My-Zsh
-ZSH=/home/msjche/.oh-my-zsh
+ZSH=/home/muhammad/.oh-my-zsh
 ZSH_THEME="powerline"    #kardan agnoster af-magic bira clean candy gentoo terminalparty
 #ZSH_THEME="agnoster"    #kardan agnoster af-magic bira clean candy gentoo terminalparty
 
